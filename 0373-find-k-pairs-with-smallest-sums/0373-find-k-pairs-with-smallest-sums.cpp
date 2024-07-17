@@ -16,7 +16,7 @@ public:
                     pq.pop();
                     pq.push({sum,{i,j}});
                 }else{
-                    break;
+                    break;// very important as it reduces the time complexity
                 }
             }
         }
