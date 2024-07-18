@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul1227/leetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Rahul1227/leetcode-150/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Rahul1227/leetcode-150/tree/master/0502-ipo) |
 ## Heap (Priority Queue)
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Rahul1227/leetcode-150/tree/master/0295-find-median-from-data-stream) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul1227/leetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
