@@ -1,20 +1,26 @@
 class Solution {
 public:
     void merge(vector<int>& nums1, int m, vector<int>& nums2, int n) {
-        priority_queue<int, vector<int>, greater<int>> pq;
-        for(int i=0; i<m; i++){
-            pq.push(nums1[i]);
-        }
-        for(int i=0; i<n; i++){
-            pq.push(nums2[i]);
-        }
-        int counter=0;
-        while(!pq.empty()){
-            nums1[counter++]=pq.top();
-            pq.pop();
-
-
+        int ind = m + n - 1;
+        int i = m - 1;
+        int j = n - 1;
+        
+        while (i >= 0 && j >= 0) {
+            if (nums1[i] >= nums2[j]) {
+                nums1[ind] = nums1[i];
+                i--;
+            } else {
+                nums1[ind] = nums2[j];
+                j--;
+            }
+            ind--;
         }
         
+        // Copy remaining elements from nums2, if any
+        while (j >= 0) {
+            nums1[ind] = nums2[j];
+            j--;
+            ind--;
+        }
     }
 };
