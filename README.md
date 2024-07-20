@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rahul1227/leetcode-150/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul1227/leetcode-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rahul1227/leetcode-150/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/Rahul1227/leetcode-150/tree/master/0274-h-index) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Rahul1227/leetcode-150/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/Rahul1227/leetcode-150/tree/master/0502-ipo) |
 ## Heap (Priority Queue)
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Rahul1227/leetcode-150/tree/master/0088-merge-sorted-array) |
+| [0274-h-index](https://github.com/Rahul1227/leetcode-150/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Rahul1227/leetcode-150/tree/master/0295-find-median-from-data-stream) |
 | [0502-ipo](https://github.com/Rahul1227/leetcode-150/tree/master/0502-ipo) |
 ## Two Pointers
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Rahul1227/leetcode-150/tree/master/0238-product-of-array-except-self) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Rahul1227/leetcode-150/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
