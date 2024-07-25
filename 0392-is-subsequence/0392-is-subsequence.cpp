@@ -13,10 +13,10 @@ public:
 
             }
                 j++;
-            
+            if(i==n1) return true;
             
         }
-        if(i==n1) return true;
+        
         return false;
         
     }
