@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rahul1227/leetcode-150/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Rahul1227/leetcode-150/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rahul1227/leetcode-150/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/Rahul1227/leetcode-150/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Rahul1227/leetcode-150/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/Rahul1227/leetcode-150/tree/master/0274-h-index) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/Rahul1227/leetcode-150/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -101,5 +102,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahul1227/leetcode-150/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/Rahul1227/leetcode-150/tree/master/0219-contains-duplicate-ii) |
 | [0383-ransom-note](https://github.com/Rahul1227/leetcode-150/tree/master/0383-ransom-note) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Rahul1227/leetcode-150/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
