@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rahul1227/leetcode-150/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Rahul1227/leetcode-150/tree/master/0015-3sum) |
 | [0045-jump-game-ii](https://github.com/Rahul1227/leetcode-150/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rahul1227/leetcode-150/tree/master/0055-jump-game) |
 | [0088-merge-sorted-array](https://github.com/Rahul1227/leetcode-150/tree/master/0088-merge-sorted-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rahul1227/leetcode-150/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Rahul1227/leetcode-150/tree/master/0088-merge-sorted-array) |
 | [0274-h-index](https://github.com/Rahul1227/leetcode-150/tree/master/0274-h-index) |
 | [0295-find-median-from-data-stream](https://github.com/Rahul1227/leetcode-150/tree/master/0295-find-median-from-data-stream) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rahul1227/leetcode-150/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Rahul1227/leetcode-150/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul1227/leetcode-150/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Rahul1227/leetcode-150/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Rahul1227/leetcode-150/tree/master/0125-valid-palindrome) |
