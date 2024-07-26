@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rahul1227/leetcode-150/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rahul1227/leetcode-150/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Rahul1227/leetcode-150/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/Rahul1227/leetcode-150/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Rahul1227/leetcode-150/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/Rahul1227/leetcode-150/tree/master/0274-h-index) |
+| [0383-ransom-note](https://github.com/Rahul1227/leetcode-150/tree/master/0383-ransom-note) |
 ## Trie
 |  |
 | ------- |
@@ -99,4 +101,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rahul1227/leetcode-150/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/Rahul1227/leetcode-150/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
